@@ -11,8 +11,7 @@
 | 安全類型 | TLS |
 
 ## 搭建CDN反向代理
-> 
-
+```
 addEventListener(
       "fetch",event => {
          let url=new URL(event.request.url);
@@ -23,4 +22,4 @@ addEventListener(
          )
       }
     ) 
-
+```
