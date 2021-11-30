@@ -3,7 +3,7 @@
 
 ## 填寫信息
 
-| --屬性-- | --值-- |
+| 屬性 | 值 |
 | 協議 | vless |
 | UUID | 自己設置的UUID |
 | PATH | 填/或者空 |
@@ -21,5 +21,5 @@ addEventListener(
            fetch(request)
          )
       }
-    ) 
+) 
 ```
