@@ -2,12 +2,12 @@
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/dietrichr/test"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## 填寫信息
-|--屬性--|--值--|
-|協議|vless|
-|UUID|自己設置的UUID|
-|PATH|填/或者空|
-|傳輸協議|ws|
-|安全類型|TLS|
+| --屬性-- | --值-- |
+| 協議 | vless |
+| UUID | 自己設置的UUID |
+| PATH | 填/或者空 |
+| 傳輸協議 | ws |
+| 安全類型 | TLS |
 
 ## 搭建CDN反向代理
 > 
